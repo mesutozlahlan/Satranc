@@ -1,5 +1,5 @@
 # Satranc
- Satranc puan hesaplama
+ Satranc Puan Hesaplama
 
 Satranç Tahtası Projesi
 
