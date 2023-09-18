@@ -15,12 +15,14 @@ Nasıl Kullanılır
 
 
 ks as fs vs ss fs as ks
+
 ps ps ps ps ps ps ps ps
 -- -- -- -- -- -- -- --
 -- -- -- -- -- -- -- --
 -- -- -- -- -- -- -- --
 -- -- -- -- -- -- -- --
 pb pb pb pb pb pb pb pb
+
 kb ab fb vb sb fb ab kb
 
 'k' - Kale (rook)
