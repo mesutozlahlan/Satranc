@@ -1,0 +1,2 @@
+# Satranc
+ Satranc puan hesaplama
